@@ -31,3 +31,4 @@ if __name__ == "__main__":
     print(r"\endgroup")
 
 # cli.py​
+# pip install pyside6
